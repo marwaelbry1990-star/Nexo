@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://elaborate-croquembouche-08af17.netlify.app/sitemap.xml
